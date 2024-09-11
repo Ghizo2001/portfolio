@@ -1,5 +1,5 @@
 # Where things are
-theme               : Midnight
+theme               : Merlot
 source              : .
 destination         : ./_site
 collections_dir     : .
